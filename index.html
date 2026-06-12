@@ -490,7 +490,7 @@ if (pases) document.getElementById('pasesInvitado').textContent = pases + (pases
 
 /* ---------- RSVP con nombre del invitado prellenado ---------- */
 const quien = invitado ? invitado : '';
-const msj = encodeURIComponent(`Hola! Confirmo mi asistencia a los XV de Valentina 💃 ${quien ? '— ' + quien : ''}${pases ? ' (' + pases + ' personas)' : ''}`);
+const msj = encodeURIComponent(`Hola! Confirmo mi asistencia a los XV de Valentina ${quien ? '— ' + quien : ''}${pases ? ' (' + pases + ' personas)' : ''}`);
 document.getElementById('btnRsvp').href = `https://wa.me/16573776892?text=${msj}`;
 
 /* ---------- cuenta regresiva ---------- */
