@@ -26,7 +26,7 @@ http://localhost:8731/?invitado=Familia+Ramírez&pases=4
 - Portada con ornamentos SVG hechos a mano (sin assets externos)
 - Cuenta regresiva en vivo al 21/11/2026 6:00 pm
 - Itinerario, ubicaciones con botón Google Maps, dress code, galería, lluvia de sobres
-- RSVP por WhatsApp (número actual: 412 123 2714 — **cambiar al número del negocio**)
+- RSVP por WhatsApp (número actual: +1 657 377 6892, USA — mover a número mexicano dedicado cuando el negocio valide)
 - Música: vals generado con Web Audio API — **cero riesgo de derechos de autor**
 - Footer con CTA del negocio ("Pide la tuya desde $399") — loop viral: cada invitado lo ve
 
